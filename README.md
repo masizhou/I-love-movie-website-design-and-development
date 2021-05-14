@@ -3,20 +3,33 @@
 
 ### 首页(搜索，筛选）<br>
 
+![image](https://user-images.githubusercontent.com/56242720/118259099-4f8abb80-b4e3-11eb-851f-9007453e44b8.png)
 
 
-
-
-
-![图片](https://images2018.cnblogs.com/blog/1242176/201805/1242176-20180528165151191-114852409.png)<br>
 ### 搜索页面<br>
-![图片](https://images2018.cnblogs.com/blog/1242176/201805/1242176-20180528165337123-1679524156.png)<br>
+![image](https://user-images.githubusercontent.com/56242720/118259201-734e0180-b4e3-11eb-86d0-b9068b92db9e.png)
+
+
+
 ### 播放页面<br>
-![图片](https://images2018.cnblogs.com/blog/1242176/201805/1242176-20180528165418937-589612978.png)<br>
+![image](https://user-images.githubusercontent.com/56242720/118259347-9f698280-b4e3-11eb-9e5e-fa7e28b43942.png)
+
+
+
+
 ### 个人中心<br>
-![图片](https://images2018.cnblogs.com/blog/1242176/201805/1242176-20180528165507402-1228378097.png)<br>
+![image](https://user-images.githubusercontent.com/56242720/118259286-8f51a300-b4e3-11eb-9e31-46170c060651.png)
+
+
+
+
 ### 后台<br>
-![图片](https://images2018.cnblogs.com/blog/1242176/201805/1242176-20180528165610991-617319902.png)<br>
+![image](https://user-images.githubusercontent.com/56242720/118259256-852fa480-b4e3-11eb-97a8-bda083091e01.png)
+
+
+
+
+
 ### 环境配置：python2.7  pip install -r requirements.txt<br>
 
 ### 创建数据库将movie.sql文件导入<br>
